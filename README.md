@@ -12,6 +12,9 @@ O objetivo deste projeto é praticar e demonstrar habilidades de manipulação, 
 - Filtragem, agrupamento e agregação de dados
 - Visualização de informações relevantes com Seaborn
 
+# Dataset
+O dataset utilizado foi retirado do site Kaggle, que disponibiliza dados públicos para análise. Ele contém informações sobre participantes de uma maratona, como tempos, posições, categorias, entre outros dados relevantes.
+
 ## Tecnologias Utilizadas
 
 - Python 3.x
